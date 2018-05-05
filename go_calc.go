@@ -1,5 +1,9 @@
 package go_calc
 
+/**
+ * Add()
+ *
+ */
 func Add(a int, b int) int {
 	return a + b
 }
