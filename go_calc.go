@@ -13,5 +13,6 @@ func Add(a int, b int) int {
  *
  */
 func Subtract(a int, b int) int {
+	// Substract a with b
 	return a - b
 }
